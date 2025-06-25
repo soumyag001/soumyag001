@@ -33,6 +33,6 @@ Hey everyone 👋 i'm soumya ghosh and i'm a b.tech Information Technology Gradu
 - Hindi
 - English
 
-## 🎇 Here is my github account link
-[click Here](https://github.com/soumyag001/)
+## 🎇 Here is my LinkedIn account link
+[click Here]([https://github.com/soumyag001/](https://www.linkedin.com/in/soumya-ghosh-50a851354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
