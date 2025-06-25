@@ -1,5 +1,5 @@
 # indroduction💕 
-Hey everyone 👋 i'm soumya ghosh and i'm from msit 3rd year
+Hey everyone 👋 i'm soumya ghosh and i'm a b.tech Information Technology Graduate
 ## 💠 Basic details
 **Name**- *Soumya Ghosh*
 
@@ -14,10 +14,16 @@ Hey everyone 👋 i'm soumya ghosh and i'm from msit 3rd year
 |1.| java|
 |2.| c programming|
 |3.| dsa|
-
+|4.| javascript|
+|5.| mongodb|
+|6.| SQL |
+|7.| Machine Learning|
+|8.| Backend Development|
 
 ## Courses
 1. dsa
+2. Machine Learning
+3. Backend Development 
 
 ## activities
 1. cricket
