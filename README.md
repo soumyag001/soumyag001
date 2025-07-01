@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer skilled in both backend technologies, with a growing expertise in machine learning. I love building impactful projects that solve real-world problems and am always eager to learn and collaborate.
+I'm a passionate developer skilled in backend technologies, with a growing expertise in machine learning. I love building impactful projects that solve real-world problems and am always eager to learn and collaborate.
 
 ---
 
