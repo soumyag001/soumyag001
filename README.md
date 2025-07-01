@@ -1,38 +1,44 @@
-# indroduction💕 
-Hey everyone 👋 i'm soumya ghosh and i'm a b.tech Information Technology Graduate
-## 💠 Basic details
-**Name**- *Soumya Ghosh*
+# 👋 Hi, I'm Soumya Ghosh!
 
-<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
+![Soumya Ghosh](image1)
 
-## 💥 College Details
-**College Name**- *Meghnad Saha Institute Of Technology*
+🎓 **2025 B.Tech (Information Technology) Graduate**
 
-## My skills
-| S.No | Skills|
-|---|---|
-|1.| java|
-|2.| c programming|
-|3.| dsa|
-|4.| javascript|
-|5.| mongodb|
-|6.| SQL |
-|7.| Machine Learning|
-|8.| Backend Development|
+---
 
-## Courses
-1. dsa
-2. Machine Learning
-3. Backend Development 
+## 🚀 About Me
 
-## activities
-1. cricket
+I'm a passionate developer skilled in both backend and frontend technologies, with a growing expertise in machine learning. I love building impactful projects that solve real-world problems and am always eager to learn and collaborate.
 
-## Languages
-- Bengali
-- Hindi
-- English
+---
 
-## 🎇 Here is my LinkedIn account link
-[click Here]( [https://github.com/soumyag001/](https://www.linkedin.com/in/soumya-ghosh-50a851354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) )
+## 🛠️ Skills
 
+- **Languages:** Java, C, JavaScript, SQL, HTML
+- **Frameworks & Libraries:** Node.js, Express.js, MongoDB, scikit-learn
+- **Machine Learning:** Scikit-learn, Data Analysis
+- **Databases:** MongoDB, SQL
+
+---
+
+## 🌟 Featured Projects
+
+- [Depression Detection using Machine Learning](https://github.com/soumyag001/Depression-Detection-.git)  
+  *A project leveraging ML algorithms to detect signs of depression from user data.*
+
+- [Detecting Heart Disease](https://github.com/soumyag001/Detecting-Heart-Disease.git)  
+  *Machine learning-based system for early prediction of heart disease.*
+
+- [Ecommerce Backend API](https://github.com/soumyag001/ecommerce-backend-api.git)  
+  *A robust backend API for ecommerce platforms using Node.js and Express.js.*
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/soumya-ghosh-50a851354)  
+✉️ Email: soumyag864@gmail.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
