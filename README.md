@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Soumya Ghosh!
 
-![Soumya Ghosh](image1)
 
 🎓 **2025 B.Tech (Information Technology) Graduate**
 
