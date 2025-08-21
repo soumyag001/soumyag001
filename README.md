@@ -30,10 +30,10 @@ I'm a passionate developer skilled in backend technologies, with a growing exper
 
 - [Ecommerce Backend API](https://github.com/soumyag001/ecommerce-backend-api.git)  
   *A robust backend API for ecommerce platforms using Node.js and Express.js.*
-
--[ToDo List]
-(https://github.com/soumyag001/TO-DOLIST.git)
-    *A todo list web app to manage works to be done*
+  
+- [ToDo List](https://github.com/soumyag001/TO-DOLIST.git)
+  *Built a ToDo List web app using HTML,CSS,JAVASCRIPT for users to manage their tasks.*
+  
 ---
 
 ## 📫 Connect with Me
