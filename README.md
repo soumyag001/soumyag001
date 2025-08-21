@@ -13,8 +13,8 @@ I'm a passionate developer skilled in backend technologies, with a growing exper
 
 ## 🛠️ Skills
 
-- **Languages:** Java, C, JavaScript, SQL, HTML
-- **Frameworks & Libraries:** Node.js, Express.js, MongoDB, scikit-learn
+- **Languages:** Java, C, JavaScript, SQL, HTML,CSS
+- **Frameworks & Libraries:** Node.js, Express.js, MongoDB, Scikit-learn,Pandas
 - **Machine Learning:** Scikit-learn, Data Analysis
 - **Databases:** MongoDB, SQL
 
