@@ -1,22 +1,31 @@
 # 👋 Hi, I'm Soumya Ghosh!
 
-
 🎓 **2025 B.Tech (Information Technology) Graduate**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer skilled in backend technologies, with a growing expertise in machine learning. I love building impactful projects that solve real-world problems and am always eager to learn and collaborate.
+I'm a passionate developer skilled in backend technologies, with a growing expertise in machine learning.  
+Currently, I'm working as a **Developer Intern**, exploring the Salesforce ecosystem—I've completed training in Salesforce Admin and Apex, and am now learning about Triggers and Lightning Web Components (LWC).  
+I'm excited about the possibility of becoming a Salesforce Developer as I continue this journey!
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Java, C, JavaScript, SQL, HTML,CSS
-- **Frameworks & Libraries:** Node.js, Express.js, MongoDB, Scikit-learn,Pandas
+- **Languages:** Java, C, JavaScript, SQL, HTML, CSS
+- **Frameworks & Libraries:** Node.js, Express.js, MongoDB, Scikit-learn, Pandas
 - **Machine Learning:** Scikit-learn, Data Analysis
 - **Databases:** MongoDB, SQL
+
+---
+
+## 🌱 Currently Learning
+
+- Salesforce Triggers
+- Lightning Web Components (LWC)
+- Salesforce Development Best Practices
 
 ---
 
@@ -30,12 +39,10 @@ I'm a passionate developer skilled in backend technologies, with a growing exper
 
 - [Ecommerce Backend API](https://github.com/soumyag001/ecommerce-backend-api.git)  
   *A robust backend API for ecommerce platforms using Node.js and Express.js.*
-  
-- [ToDo List](https://github.com/soumyag001/TO-DOLIST.git)
 
-   *Built a ToDo List web app using HTML,CSS,JAVASCRIPT for users to manage their tasks.*
+- [ToDo List](https://github.com/soumyag001/TO-DOLIST.git)  
+  *Built a ToDo List web app using HTML, CSS, JavaScript for users to manage their tasks.*
 
-  
 ---
 
 ## 📫 Connect with Me
