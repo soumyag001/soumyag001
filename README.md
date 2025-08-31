@@ -7,25 +7,19 @@
 ## 🚀 About Me
 
 I'm a passionate developer skilled in backend technologies, with a growing expertise in machine learning.  
-Currently, I'm working as a **Developer Intern**, exploring the Salesforce ecosystem—I've completed training in Salesforce Admin and Apex, and am now learning about Triggers and Lightning Web Components (LWC).  
-I'm excited about the possibility of becoming a Salesforce Developer as I continue this journey!
+Currently, I'm working as a **Salesforce Developer Intern at Inspiroworks**, where I'm actively exploring the Salesforce ecosystem. I have completed training in Salesforce Admin and Apex, and am now learning about Triggers and Lightning Web Components (LWC).  
+My knowledge includes Salesforce configuration, automation, and basic development using Apex and LWC—I'm eager to deepen my expertise as I continue this journey.  
+I'm excited about the possibility of becoming a full-fledged Salesforce Developer as I grow my skills!
 
 ---
 
 ## 🛠️ Skills
 
+- **Salesforce:** Salesforce Admin, Apex, Triggers, Lightning Web Components (LWC), CRM Automation
 - **Languages:** Java, C, JavaScript, SQL, HTML, CSS
 - **Frameworks & Libraries:** Node.js, Express.js, MongoDB, Scikit-learn, Pandas
-- **Machine Learning:** Scikit-learn, Data Analysis
+- **Machine Learning:** Scikit-learn, Data Analysis, Jupyter
 - **Databases:** MongoDB, SQL
-
----
-
-## 🌱 Currently Learning
-
-- Salesforce Triggers
-- Lightning Web Components (LWC)
-- Salesforce Development Best Practices
 
 ---
 
